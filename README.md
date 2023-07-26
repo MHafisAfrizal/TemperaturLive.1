@@ -5,7 +5,7 @@
 1. Clone project ini menggunakan git. Jalankan pada terminal:
 
     ```bash
-    git clone https://github.com/IhsanDevs/TemperatureLive
+    git clone https://github.com/MHafisAfrizal/TemperatureLive.1
     ```
 
 2. Masuk pada directory project yang telah di clone:
